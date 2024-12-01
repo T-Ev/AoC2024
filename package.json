@@ -1,0 +1,15 @@
+{
+  "name": "AoC2024",
+  "version": "1.0.0",
+  "description": "A project for Advent of Code exercises",
+  "main": "Day 1/D1C1.js",
+  "type": "module",
+  "scripts": {
+    "d1c1": "node Day 1/D1C1.js",
+    "d1c2": "node Day 1/D1C2.js"
+  },
+  "keywords": [],
+  "author": "TJ Evarts",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
